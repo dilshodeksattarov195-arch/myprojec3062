@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevrocess",
+        "uuid": 12382728,
+        "checksum": "eddypf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
